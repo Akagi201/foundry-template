@@ -35,3 +35,13 @@ jobs:
         run: |
           forge test -vvv
         id: test
+      
+      - name: Setup Node.js
+        uses: actions/setup-node@v2
+        with:
+          node-version: '18'
+      
+      - name: solhint
+        run: |
+          npm install -g solhint
+          solhint './src/**/*.sol'
