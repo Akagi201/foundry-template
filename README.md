@@ -16,6 +16,12 @@ forge init --vscode foundry-template
 
 ## EVM Tools
 
+* [Ethers.js](https://ethers.org/)
+* [viem](https://viem.sh/)
+* [solhint](https://github.com/protofire/solhint)
+* [slither](https://github.com/crytic/slither)
+* [heimdall](https://github.com/Jon-Becker/heimdall-rs)
+
 ## Usage
 
 Install dependencies
