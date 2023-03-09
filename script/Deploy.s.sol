@@ -7,14 +7,14 @@ import {Counter} from "../src/Counter.sol";
 contract DeployScript is CREATE3Script {
     constructor() CREATE3Script(vm.envString("VERSION")) {}
 
-    function run() external returns (Contract c) {
+    function run() external returns (Counter c) {
         uint256 deployerPrivateKey = uint256(vm.envBytes32("PRIVATE_KEY"));
 
         uint256 param = 123;
 
         vm.startBroadcast(deployerPrivateKey);
 
-        c = Contract(
+        c = Counter(
             create3.deploy(
                 getCreate3ContractSalt("Counter"),
                 bytes.concat(type(Counter).creationCode, abi.encode(param))

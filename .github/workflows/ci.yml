@@ -1,4 +1,4 @@
-name: test
+name: Forge CI
 
 on: workflow_dispatch
 
@@ -6,11 +6,14 @@ env:
   FOUNDRY_PROFILE: ci
 
 jobs:
-  check:
+  forge_ci:
     strategy:
       fail-fast: true
+      matrix:
+        os: [ubuntu-latest]
+        rust: [nightly]
 
-    name: Foundry project
+    name: Foundry CI
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v3
