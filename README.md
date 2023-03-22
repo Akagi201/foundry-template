@@ -55,3 +55,7 @@ Live
 ```sh
 forge script script/Deploy.s.sol -f [network] --verify --broadcast
 ```
+
+## Code guide
+
+* <https://github.com/d-xo/weird-erc20>
