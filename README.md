@@ -59,3 +59,7 @@ forge script script/Deploy.s.sol -f [network] --verify --broadcast
 ## Code guide
 
 * <https://github.com/d-xo/weird-erc20>
+
+## Analysis tools
+
+* <https://www.contractreader.io/>
