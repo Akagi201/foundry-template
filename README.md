@@ -62,7 +62,9 @@ forge script script/Deploy.s.sol -f [network] --verify --broadcast
 
 ## Analysis tools
 
-* <https://www.contractreader.io/>
+* <https://www.contractreader.io/> - chatgpt contract analysis
+* <https://github.com/a16z/helios> - execution client and consensus client
+* <https://github.com/a16z/halmos> - Symbolic Bounded Model Checker
 
 ## Hacks
 
