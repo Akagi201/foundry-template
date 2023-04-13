@@ -59,6 +59,7 @@ forge script script/Deploy.s.sol -f [network] --verify --broadcast
 ## Code guide
 
 * <https://github.com/d-xo/weird-erc20>
+* <https://github.com/nicolasgarcia214/damn-vulnerable-defi-foundry>
 
 ## Analysis tools
 
