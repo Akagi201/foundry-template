@@ -10,9 +10,10 @@ forge init --vscode foundry-template
 
 ## Deps
 
-* [forge-std](https://github.com/foundry-rs/forge-std)
-* [solmate](https://github.com/transmissions11/solmate)
-* [create3-factory](https://github.com/zeframlou/create3-factory)
+* [x] [forge-std](https://github.com/foundry-rs/forge-std)
+* [x] [solmate](https://github.com/transmissions11/solmate)
+* [x] [create3-factory](https://github.com/zeframlou/create3-factory)
+* [ ] [0x/contracts](https://github.com/0xProject/protocol)
 
 ## EVM Tools
 
