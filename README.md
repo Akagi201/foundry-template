@@ -13,6 +13,7 @@ forge init --vscode foundry-template
 * [x] [forge-std](https://github.com/foundry-rs/forge-std)
 * [x] [solmate](https://github.com/transmissions11/solmate)
 * [x] [create3-factory](https://github.com/zeframlou/create3-factory)
+* [ ] [safe-global/safe-contracts](https://github.com/safe-global/safe-contracts)
 * [ ] [0x/contracts](https://github.com/0xProject/protocol)
 
 ## EVM Tools
