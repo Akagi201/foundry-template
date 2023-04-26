@@ -74,6 +74,10 @@ forge script script/Deploy.s.sol -f [network] --verify --broadcast
 * <https://github.com/SunWeb3Sec/DeFiHackLabs>
 * <https://quillctf.super.site/>
 
+## Foundry inside
+
+* default `forge.toml` configs: <https://github.com/foundry-rs/foundry/blob/master/config/src/lib.rs#L1706>
+
 ## Refs
 
 * <https://github.com/refcell/femplate>
