@@ -69,6 +69,11 @@ forge script script/Deploy.s.sol -f [network] --verify --broadcast
 * <https://github.com/a16z/helios> - execution client and consensus client
 * <https://github.com/a16z/halmos> - Symbolic Bounded Model Checker
 
+## EVM network docs
+
+* <https://docs.avax.network/quickstart/fuji-workflow>
+* <https://docs.avax.network/dapps/developer-toolchains/using-foundry-with-the-avalanche-c-chain>
+
 ## Hacks
 
 * <https://github.com/SunWeb3Sec/DeFiHackLabs>
