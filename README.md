@@ -77,6 +77,10 @@ forge script script/Deploy.s.sol -f [network] --verify --broadcast
 * <https://docs.avax.network/quickstart/fuji-workflow>
 * <https://docs.avax.network/dapps/developer-toolchains/using-foundry-with-the-avalanche-c-chain>
 
+## solc version manager
+
+* [svm-rs](https://github.com/ethers-rs/svm-rs) - foundry uses it inside
+
 ## Hacks
 
 * <https://github.com/SunWeb3Sec/DeFiHackLabs>
