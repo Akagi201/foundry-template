@@ -71,6 +71,7 @@ forge script script/Deploy.s.sol -f [network] --verify --broadcast
 * <https://github.com/a16z/helios> - execution client and consensus client
 * <https://github.com/a16z/halmos> - Symbolic Bounded Model Checker
 * <https://github.com/0xKitsune/solstat> - Static analyzer to identify contract vulnerabilities and gas efficiencies
+* <https://blockscan.com/> - find the same contract address across different EVM chains.
 
 ## EVM network docs
 
