@@ -10,6 +10,7 @@ fuzz_runs = 100_000
 verbosity = 4
 
 [rpc_endpoints]
+localhost = "http://localhost:8545"
 mainnet = "${RPC_URL_MAINNET}"
 goerli = "${RPC_URL_GOERLI}"
 hyperspace = "${RPC_URL_HYPERSPACE}"
