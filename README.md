@@ -93,6 +93,10 @@ forge script script/Deploy.s.sol -f [network] --verify --broadcast
 
 * default `forge.toml` configs: <https://github.com/foundry-rs/foundry/blob/master/config/src/lib.rs#L1706>
 
+## Nice books
+
+* <https://uniswapv3book.com/>
+
 ## Refs
 
 * <https://github.com/refcell/femplate>
