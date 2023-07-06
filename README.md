@@ -72,6 +72,8 @@ forge script script/Deploy.s.sol -f [network] --verify --broadcast
 * <https://github.com/a16z/halmos> - Symbolic Bounded Model Checker
 * <https://github.com/0xKitsune/solstat> - Static analyzer to identify contract vulnerabilities and gas efficiencies
 * <https://blockscan.com/> - find the same contract address across different EVM chains.
+* <https://github.com/nascentxyz/pyrometer> - analyzing the security
+* <https://github.com/primitivefinance/arbiter> - simulated EVM.
 
 ## EVM network docs
 
