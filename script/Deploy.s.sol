@@ -1,5 +1,5 @@
-// SPDX-License-Identifier: AGPL-3.0
-pragma solidity ^0.8.13;
+// SPDX-License-Identifier: Apache-2.0
+pragma solidity ^0.8.19;
 
 import {CREATE3Script} from "./base/CREATE3Script.sol";
 import {Counter} from "../src/Counter.sol";
@@ -16,8 +16,7 @@ contract DeployScript is CREATE3Script {
 
         c = Counter(
             create3.deploy(
-                getCreate3ContractSalt("Counter"),
-                bytes.concat(type(Counter).creationCode, abi.encode(param))
+                getCreate3ContractSalt("Counter"), bytes.concat(type(Counter).creationCode, abi.encode(param))
             )
         );
 
