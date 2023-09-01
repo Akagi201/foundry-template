@@ -74,6 +74,7 @@ forge script script/Deploy.s.sol -f [network] --verify --broadcast
 * <https://blockscan.com/> - find the same contract address across different EVM chains.
 * <https://github.com/nascentxyz/pyrometer> - analyzing the security
 * <https://github.com/primitivefinance/arbiter> - simulated EVM.
+* <https://github.com/iFrostizz/solhunt> - static analyzer
 
 ## EVM network docs
 
