@@ -76,6 +76,11 @@ forge script script/Deploy.s.sol -f [network] --verify --broadcast
 * <https://github.com/primitivefinance/arbiter> - simulated EVM.
 * <https://github.com/iFrostizz/solhunt> - static analyzer
 
+## Security tools
+
+* <https://tokensniffer.com/> - token scanner
+* <https://dexscreener.com/> - dex scanner
+
 ## EVM network docs
 
 * <https://docs.avax.network/quickstart/fuji-workflow>
