@@ -17,6 +17,7 @@ forge init --vscode foundry-template
 * [ ] [immutable-create3-factory](https://github.com/reservoirprotocol/immutable-create3-factory)
 * [ ] [safe-global/safe-contracts](https://github.com/safe-global/safe-contracts)
 * [ ] [0x/contracts](https://github.com/0xProject/protocol)
+* [ ] [prb-math](https://github.com/PaulRBerg/prb-math)
 
 ## EVM Tools
 
