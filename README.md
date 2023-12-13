@@ -26,6 +26,7 @@ forge init --vscode foundry-template
 * [solhint](https://github.com/protofire/solhint)
 * [slither](https://github.com/crytic/slither)
 * [heimdall](https://github.com/Jon-Becker/heimdall-rs)
+* [pyrometer](https://github.com/nascentxyz/pyrometer)
 
 ## Usage
 
