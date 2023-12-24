@@ -27,6 +27,7 @@ forge init --vscode foundry-template
 * [slither](https://github.com/crytic/slither)
 * [heimdall](https://github.com/Jon-Becker/heimdall-rs)
 * [pyrometer](https://github.com/nascentxyz/pyrometer)
+* [foundry-gas-diff](https://github.com/Rubilmax/foundry-gas-diff)
 
 ## Usage
 
