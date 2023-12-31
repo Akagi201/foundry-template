@@ -79,6 +79,10 @@ forge script script/Deploy.s.sol -f [network] --verify --broadcast
 * <https://github.com/primitivefinance/arbiter> - simulated EVM.
 * <https://github.com/iFrostizz/solhunt> - static analyzer
 
+## Dev Tools
+
+* [forge-testsuite](https://github.com/polytope-labs/forge-testsuite) - write solidity tests in Rust
+
 ## Security tools
 
 * <https://tokensniffer.com/> - token scanner
