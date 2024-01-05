@@ -115,3 +115,5 @@ forge script script/Deploy.s.sol -f [network] --verify --broadcast
 * <https://github.com/refcell/femplate>
 * <https://github.com/lifinance/contracts>
 * <https://github.com/PaulRBerg/foundry-template>
+* <https://github.com/defi-wonderland/solidity-foundry-boilerplate>
+
