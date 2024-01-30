@@ -8,15 +8,21 @@ Foundry scaffold project with many useful solidity tools
 forge init --vscode foundry-template
 ```
 
-## Deps
+## Necessary Deps
 
 * [x] [forge-std](https://github.com/foundry-rs/forge-std)
-* [x] [solmate](https://github.com/transmissions11/solmate)
+* [x] [foundry-devops](https://github.com/Cyfrin/foundry-devops)
+* [x] [openzeppelin-contracts](https://github.com/openzeppelin/openzeppelin-contracts)
+* [x] [openzeppelin-contracts-upgradeable](https://github.com/OpenZeppelin/openzeppelin-contracts-upgradeable)
+* [x] [openzeppelin-foundry-upgrades](https://github.com/OpenZeppelin/openzeppelin-foundry-upgrades)
+
+## Unnecessary Deps
+
+* [ ] [solmate](https://github.com/transmissions11/solmate)
 * [ ] [safe-global/safe-contracts](https://github.com/safe-global/safe-contracts)
 * [ ] [prb-math](https://github.com/PaulRBerg/prb-math)
 * [ ] [murky](https://github.com/dmfxyz/murky)
 * [ ] [solidity-bytes-utils](https://github.com/GNSPS/solidity-bytes-utils)
-* [ ] [foundry-devops](https://github.com/Cyfrin/foundry-devops)
 
 ## EVM Tools
 
