@@ -18,6 +18,9 @@ forge init --vscode foundry-template
 * [ ] [safe-global/safe-contracts](https://github.com/safe-global/safe-contracts)
 * [ ] [0x/contracts](https://github.com/0xProject/protocol)
 * [ ] [prb-math](https://github.com/PaulRBerg/prb-math)
+* [ ] [murky](https://github.com/dmfxyz/murky)
+* [ ] [solidity-bytes-utils](https://github.com/GNSPS/solidity-bytes-utils)
+* [ ] [foundry-devops](https://github.com/Cyfrin/foundry-devops)
 
 ## EVM Tools
 
@@ -31,36 +34,11 @@ forge init --vscode foundry-template
 
 ## Usage
 
-Install dependencies
-
 ```sh
-forge install
-```
-
-Build
-
-```sh
-forge build
-```
-
-Test
-
-```sh
-forge test
-```
-
-## Deploy
-
-Dryrun
-
-```sh
-forge script script/Deploy.s.sol -f [network]
-```
-
-Live
-
-```sh
-forge script script/Deploy.s.sol -f [network] --verify --broadcast
+just -l
+just install
+just build
+just deploy-xxx
 ```
 
 ## Code guide
@@ -116,4 +94,4 @@ forge script script/Deploy.s.sol -f [network] --verify --broadcast
 * <https://github.com/lifinance/contracts>
 * <https://github.com/PaulRBerg/foundry-template>
 * <https://github.com/defi-wonderland/solidity-foundry-boilerplate>
-
+* <https://github.com/josechifflet/solidity-foundry>
