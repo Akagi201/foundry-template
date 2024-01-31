@@ -1,5 +1,5 @@
 // SPDX-License-Identifier: Apache-2.0
-pragma solidity ^0.8.19;
+pragma solidity ^0.8.23;
 
 import "forge-std/Test.sol";
 
@@ -10,15 +10,15 @@ contract Tester {
         bob = _bob;
     }
 
-    function revertsIfZero(uint256 a) public {
+    function revertsIfZero(uint256 a) public pure {
         require(a > 0);
     }
 
-    function onlyBob() public {
+    function onlyBob() public view {
         require(msg.sender == bob);
     }
 
-    function onlyBobEOA() public {
+    function onlyBobEOA() public view {
         require(msg.sender == bob);
         require(tx.origin == bob);
     }

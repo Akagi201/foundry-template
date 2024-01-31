@@ -1,11 +1,11 @@
 // SPDX-License-Identifier: Apache-2.0
-pragma solidity ^0.8.19;
+pragma solidity ^0.8.23;
 
 import "forge-std/Test.sol";
 
 contract ForgeStdTest is Test {
     // forge test --match-test test_ConsoleLog
-    function test_ConsoleLog() public {
+    function test_ConsoleLog() public view {
         console2.log("This will be logged to the terminal");
 
         console.log("Hardhat `console.log` is supported too but console2 is preferred");

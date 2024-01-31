@@ -61,7 +61,17 @@ just deploy-xxx
 
 ## Dev Tools
 
+```sh
+volta install @openzeppelin/defender-deploy-client-cli # defender-deploy-client-cli
+volta install @openzeppelin/upgrades-core # openzeppelin-upgrades-core
+```
+
 * [forge-testsuite](https://github.com/polytope-labs/forge-testsuite) - write solidity tests in Rust
+
+## Services
+
+* Openzeppelin Defender
+* Tenderly
 
 ## Security tools
 
@@ -81,6 +91,7 @@ just deploy-xxx
 
 * <https://github.com/SunWeb3Sec/DeFiHackLabs>
 * <https://quillctf.super.site/>
+* <https://ethernaut.openzeppelin.com/>
 
 ## Foundry inside
 
@@ -90,6 +101,11 @@ just deploy-xxx
 
 * <https://uniswapv3book.com/>
 
+## Nice docs
+
+* <https://docs.openzeppelin.com/learn/upgrading-smart-contracts?pref=hardhat>
+* <https://ethereum-blockchain-developer.com/110-upgrade-smart-contracts/00-project/>
+
 ## Refs
 
 * <https://github.com/refcell/femplate>
@@ -97,3 +113,4 @@ just deploy-xxx
 * <https://github.com/PaulRBerg/foundry-template>
 * <https://github.com/defi-wonderland/solidity-foundry-boilerplate>
 * <https://github.com/josechifflet/solidity-foundry>
+* <https://github.com/gabrielstoica/hardhat-upgrades>
