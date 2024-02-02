@@ -6,7 +6,7 @@ import "@openzeppelin/contracts-upgradeable/proxy/utils/Initializable.sol";
 import "@openzeppelin/contracts-upgradeable/proxy/utils/UUPSUpgradeable.sol";
 import "./BoxStorage.sol";
 
-contract Box is Initializable, OwnableUpgradeable, UUPSUpgradeable, BoxStorage {
+contract Box is OwnableUpgradeable, UUPSUpgradeable, BoxStorage {
     /// @custom:oz-upgrades-unsafe-allow constructor
     constructor() {
         _disableInitializers();

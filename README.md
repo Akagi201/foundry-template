@@ -23,6 +23,7 @@ forge init --vscode foundry-template
 * [ ] [prb-math](https://github.com/PaulRBerg/prb-math)
 * [ ] [murky](https://github.com/dmfxyz/murky)
 * [ ] [solidity-bytes-utils](https://github.com/GNSPS/solidity-bytes-utils)
+* [ ] [Vulcan](https://github.com/nomoixyz/vulcan)
 
 ## EVM Tools
 
@@ -33,6 +34,7 @@ forge init --vscode foundry-template
 * [heimdall](https://github.com/Jon-Becker/heimdall-rs)
 * [pyrometer](https://github.com/nascentxyz/pyrometer)
 * [foundry-gas-diff](https://github.com/Rubilmax/foundry-gas-diff)
+* [OpenZeppelin Wizard](https://wizard.openzeppelin.com/#custom) - Init your contract with oz libs
 
 ## Usage
 
@@ -105,6 +107,7 @@ volta install @openzeppelin/upgrades-core # openzeppelin-upgrades-core
 
 * <https://docs.openzeppelin.com/learn/upgrading-smart-contracts?pref=hardhat>
 * <https://ethereum-blockchain-developer.com/110-upgrade-smart-contracts/00-project/>
+* <https://docs.openzeppelin.com/contracts/5.x/api/proxy#transparent-vs-uups>
 
 ## Refs
 
