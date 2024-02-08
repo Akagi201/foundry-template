@@ -102,6 +102,7 @@ volta install @openzeppelin/upgrades-core # openzeppelin-upgrades-core
 ## Nice books
 
 * <https://uniswapv3book.com/>
+* <https://www.rareskills.io/solidity-bootcamp>
 
 ## Nice docs
 
