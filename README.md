@@ -37,6 +37,7 @@ forge init --vscode foundry-template
 * [foundry-gas-diff](https://github.com/Rubilmax/foundry-gas-diff)
 * [OpenZeppelin Wizard](https://wizard.openzeppelin.com/#custom) - Init your contract with oz libs
 * [bulloak](https://github.com/alexfertel/bulloak) - Solidity test generator
+* [sphinx](https://github.com/sphinx-labs/sphinx) - devops for foundry
 
 ## Usage
 
