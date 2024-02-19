@@ -60,6 +60,7 @@ just deploy-xxx
 * <https://github.com/nascentxyz/pyrometer> - analyzing the security
 * <https://github.com/primitivefinance/arbiter> - simulated EVM.
 * <https://github.com/iFrostizz/solhunt> - static analyzer
+* <https://github.com/pessimistic-io/slitherin> - Slither Detectors by Pessimistic.io
 
 ## Dev Tools
 
