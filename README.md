@@ -19,6 +19,7 @@ forge init --vscode foundry-template
 ## Unnecessary Deps
 
 * [ ] [solmate](https://github.com/transmissions11/solmate)
+* [ ] [solady](https://github.com/vectorized/solady) - optimized solmate
 * [ ] [safe-global/safe-contracts](https://github.com/safe-global/safe-contracts)
 * [ ] [prb-math](https://github.com/PaulRBerg/prb-math)
 * [ ] [murky](https://github.com/dmfxyz/murky)
@@ -35,6 +36,7 @@ forge init --vscode foundry-template
 * [pyrometer](https://github.com/nascentxyz/pyrometer)
 * [foundry-gas-diff](https://github.com/Rubilmax/foundry-gas-diff)
 * [OpenZeppelin Wizard](https://wizard.openzeppelin.com/#custom) - Init your contract with oz libs
+* [bulloak](https://github.com/alexfertel/bulloak) - Solidity test generator
 
 ## Usage
 
