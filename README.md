@@ -25,6 +25,7 @@ forge init --vscode foundry-template
 * [ ] [murky](https://github.com/dmfxyz/murky)
 * [ ] [solidity-bytes-utils](https://github.com/GNSPS/solidity-bytes-utils)
 * [ ] [Vulcan](https://github.com/nomoixyz/vulcan)
+* [ ] [CreateX](https://github.com/pcaversaccio/createx)
 
 ## EVM Tools
 
@@ -64,6 +65,9 @@ just deploy-xxx
 * <https://github.com/primitivefinance/arbiter> - simulated EVM.
 * <https://github.com/iFrostizz/solhunt> - static analyzer
 * <https://github.com/pessimistic-io/slitherin> - Slither Detectors by Pessimistic.io
+* <https://github.com/zeroknots/slotmachine>
+* <https://github.com/crytic/fuzz-utils>
+* <https://wardgraph.com/>
 
 ## Dev Tools
 
@@ -83,6 +87,9 @@ volta install @openzeppelin/upgrades-core # openzeppelin-upgrades-core
 
 * <https://tokensniffer.com/> - token scanner
 * <https://dexscreener.com/> - dex scanner
+* <https://github.com/crytic/echidna>
+* <https://github.com/ConsenSys/mythril>
+* <https://github.com/HrikB/createXcrunch>
 
 ## EVM network docs
 
@@ -107,6 +114,11 @@ volta install @openzeppelin/upgrades-core # openzeppelin-upgrades-core
 
 * <https://uniswapv3book.com/>
 * <https://www.rareskills.io/solidity-bootcamp>
+
+## Nice course
+
+* <https://updraft.cyfrin.io/courses/advanced-foundry>
+* <https://github.com/Perelyn-sama/yul_by_example>
 
 ## Nice docs
 
