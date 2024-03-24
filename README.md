@@ -26,6 +26,7 @@ forge init --vscode foundry-template
 * [ ] [solidity-bytes-utils](https://github.com/GNSPS/solidity-bytes-utils)
 * [ ] [Vulcan](https://github.com/nomoixyz/vulcan)
 * [ ] [CreateX](https://github.com/pcaversaccio/createx)
+* [ ] [MapReduceFilter](https://github.com/soltheon/MapReduceFilter) - functional programming.
 
 ## EVM Tools
 
@@ -39,6 +40,7 @@ forge init --vscode foundry-template
 * [OpenZeppelin Wizard](https://wizard.openzeppelin.com/#custom) - Init your contract with oz libs
 * [bulloak](https://github.com/alexfertel/bulloak) - Solidity test generator
 * [sphinx](https://github.com/sphinx-labs/sphinx) - devops for foundry
+* [ethernaut-cli](https://github.com/theethernaut/ethernaut-cli) - ai cli
 
 ## Usage
 
