@@ -70,6 +70,7 @@ just deploy-xxx
 * <https://github.com/zeroknots/slotmachine>
 * <https://github.com/crytic/fuzz-utils>
 * <https://wardgraph.com/>
+* <https://github.com/joebb10/Autsec->
 
 ## Dev Tools
 
