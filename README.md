@@ -27,6 +27,7 @@ forge init --vscode foundry-template
 * [ ] [Vulcan](https://github.com/nomoixyz/vulcan)
 * [ ] [CreateX](https://github.com/pcaversaccio/createx)
 * [ ] [MapReduceFilter](https://github.com/soltheon/MapReduceFilter) - functional programming.
+* [ ] [fuzz-utils](https://github.com/crytic/fuzz-utils)
 
 ## EVM Tools
 
@@ -41,6 +42,7 @@ forge init --vscode foundry-template
 * [bulloak](https://github.com/alexfertel/bulloak) - Solidity test generator
 * [sphinx](https://github.com/sphinx-labs/sphinx) - devops for foundry
 * [ethernaut-cli](https://github.com/theethernaut/ethernaut-cli) - ai cli
+* [swiss-knife](https://contract-address.swiss-knife.xyz/)
 
 ## Usage
 
@@ -71,6 +73,7 @@ just deploy-xxx
 * <https://github.com/crytic/fuzz-utils>
 * <https://wardgraph.com/>
 * <https://github.com/joebb10/Autsec->
+* <https://github.com/wavefnx/sigmund>
 
 ## Dev Tools
 
