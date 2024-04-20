@@ -74,6 +74,7 @@ just deploy-xxx
 * <https://wardgraph.com/>
 * <https://github.com/joebb10/Autsec->
 * <https://github.com/wavefnx/sigmund>
+* <https://github.com/Cyfrin/aderyn>
 
 ## Dev Tools
 
