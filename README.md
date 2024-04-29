@@ -43,6 +43,9 @@ forge init --vscode foundry-template
 * [sphinx](https://github.com/sphinx-labs/sphinx) - devops for foundry
 * [ethernaut-cli](https://github.com/theethernaut/ethernaut-cli) - ai cli
 * [swiss-knife](https://contract-address.swiss-knife.xyz/)
+* [ape](https://github.com/apeworx/ape) - contract development framework
+* [dpack](https://github.com/banteg/dpack) - python implementation of dpack
+* [dpack](https://github.com/ricobank/dpack) - typescript implementation of dpack
 
 ## Usage
 
