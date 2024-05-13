@@ -78,6 +78,8 @@ just deploy-xxx
 * <https://github.com/joebb10/Autsec->
 * <https://github.com/wavefnx/sigmund>
 * <https://github.com/Cyfrin/aderyn>
+* <https://github.com/shortdoom/immunefi-terminal> - 
+* <https://github.com/shortdoom/betterscan-v1> - solidity code search
 
 ## Dev Tools
 
