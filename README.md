@@ -78,8 +78,10 @@ just deploy-xxx
 * <https://github.com/joebb10/Autsec->
 * <https://github.com/wavefnx/sigmund>
 * <https://github.com/Cyfrin/aderyn>
-* <https://github.com/shortdoom/immunefi-terminal> - 
+* <https://github.com/shortdoom/immunefi-terminal>
 * <https://github.com/shortdoom/betterscan-v1> - solidity code search
+* <https://github.com/ucsb-seclab/greed> - a symbolic execution engine for EVM smart contract binaries
+* <https://indexsupply.com/shovel/docs/> - index eth node to pg db
 
 ## Dev Tools
 
@@ -102,6 +104,7 @@ volta install @openzeppelin/upgrades-core # openzeppelin-upgrades-core
 * <https://github.com/crytic/echidna>
 * <https://github.com/ConsenSys/mythril>
 * <https://github.com/HrikB/createXcrunch>
+* <https://github.com/Recon-Fuzz/create-chimera-app> - fuzzing test with foundry
 
 ## EVM network docs
 
