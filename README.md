@@ -82,6 +82,7 @@ just deploy-xxx
 * <https://github.com/shortdoom/betterscan-v1> - solidity code search
 * <https://github.com/ucsb-seclab/greed> - a symbolic execution engine for EVM smart contract binaries
 * <https://indexsupply.com/shovel/docs/> - index eth node to pg db
+* <https://github.com/Zellic/solidity-parser> - python solidity ast parser
 
 ## Dev Tools
 
