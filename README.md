@@ -46,6 +46,7 @@ forge init --vscode foundry-template
 * [ape](https://github.com/apeworx/ape) - contract development framework
 * [dpack](https://github.com/banteg/dpack) - python implementation of dpack
 * [dpack](https://github.com/ricobank/dpack) - typescript implementation of dpack
+* [tevm](https://github.com/evmts/tevm-monorepo) - connect js and solidity
 
 ## Usage
 
@@ -84,6 +85,7 @@ just deploy-xxx
 * <https://indexsupply.com/shovel/docs/> - index eth node to pg db
 * <https://github.com/Zellic/solidity-parser> - python solidity ast parser
 * <https://github.com/runtimeverification/kontrol> - kevm + foundry formal verification
+* <https://github.com/0xQuantumCoder/SherlockChain> - a streamlined AI analysis framework for Solidity, Vyper and Plutus contracts - <https://www.kitploit.com/2024/05/sherlockchain-streamlined-ai-analysis.html>
 
 ## Dev Tools
 
@@ -117,7 +119,7 @@ volta install @openzeppelin/upgrades-core # openzeppelin-upgrades-core
 
 * [svm-rs](https://github.com/ethers-rs/svm-rs) - foundry uses it inside
 
-## Hacks
+## Hacks/CTF
 
 * <https://github.com/SunWeb3Sec/DeFiHackLabs>
 * <https://quillctf.super.site/>
@@ -142,6 +144,7 @@ volta install @openzeppelin/upgrades-core # openzeppelin-upgrades-core
 * <https://docs.openzeppelin.com/learn/upgrading-smart-contracts?pref=hardhat>
 * <https://ethereum-blockchain-developer.com/110-upgrade-smart-contracts/00-project/>
 * <https://docs.openzeppelin.com/contracts/5.x/api/proxy#transparent-vs-uups>
+* <https://github.com/andreitoma8/learn-yul>
 
 ## Refs
 
