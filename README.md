@@ -28,6 +28,7 @@ forge init --vscode foundry-template
 * [ ] [CreateX](https://github.com/pcaversaccio/createx)
 * [ ] [MapReduceFilter](https://github.com/soltheon/MapReduceFilter) - functional programming.
 * [ ] [fuzz-utils](https://github.com/crytic/fuzz-utils)
+* [ ] [snekmate](https://github.com/pcaversaccio/snekmate) - vyper base libs
 
 ## EVM Tools
 
@@ -47,6 +48,13 @@ forge init --vscode foundry-template
 * [dpack](https://github.com/banteg/dpack) - python implementation of dpack
 * [dpack](https://github.com/ricobank/dpack) - typescript implementation of dpack
 * [tevm](https://github.com/evmts/tevm-monorepo) - connect js and solidity
+* [whatsabi](https://github.com/shazow/whatsabi) - Extract the ABI from bytecode
+* [ethcmd](https://github.com/verynifty/ethcmd) - web ui to interact with contract
+* [soldeer](https://github.com/mario-eth/soldeer) - solidity package manager
+* [abi.ninja](https://github.com/BuidlGuidl/abi.ninja) - contract interact tool
+* [evm.codes](https://www.evm.codes/) - evm tools
+* [ponder](https://github.com/ponder-sh/ponder) - evm indexer
+* [prool](https://github.com/wevm/prool) - http e2e evm chain node testing
 
 ## Usage
 
