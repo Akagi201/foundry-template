@@ -40,7 +40,7 @@ forge init --vscode foundry-template
 * [pyrometer](https://github.com/nascentxyz/pyrometer)
 * [foundry-gas-diff](https://github.com/Rubilmax/foundry-gas-diff)
 * [OpenZeppelin Wizard](https://wizard.openzeppelin.com/#custom) - Init your contract with oz libs
-* [bulloak](https://github.com/alexfertel/bulloak) - Solidity test generator
+* [bulloak](https://github.com/alexfertel/bulloak) - Solidity test generator - <https://github.com/smol-ninja/bulloak-toolchain>
 * [sphinx](https://github.com/sphinx-labs/sphinx) - devops for foundry
 * [ethernaut-cli](https://github.com/theethernaut/ethernaut-cli) - ai cli
 * [swiss-knife](https://contract-address.swiss-knife.xyz/)
@@ -153,6 +153,7 @@ volta install @openzeppelin/upgrades-core # openzeppelin-upgrades-core
 * <https://ethereum-blockchain-developer.com/110-upgrade-smart-contracts/00-project/>
 * <https://docs.openzeppelin.com/contracts/5.x/api/proxy#transparent-vs-uups>
 * <https://github.com/andreitoma8/learn-yul>
+* <https://github.com/nascentxyz/simple-security-toolkit> - security check flows tools
 
 ## Refs
 
