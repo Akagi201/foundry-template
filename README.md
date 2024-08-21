@@ -154,6 +154,7 @@ volta install @openzeppelin/upgrades-core # openzeppelin-upgrades-core
 * <https://docs.openzeppelin.com/contracts/5.x/api/proxy#transparent-vs-uups>
 * <https://github.com/andreitoma8/learn-yul>
 * <https://github.com/nascentxyz/simple-security-toolkit> - security check flows tools
+* <https://scsfg.io/> - security guide
 
 ## Refs
 
