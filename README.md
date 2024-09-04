@@ -141,6 +141,7 @@ volta install @openzeppelin/upgrades-core # openzeppelin-upgrades-core
 
 * <https://uniswapv3book.com/>
 * <https://www.rareskills.io/solidity-bootcamp>
+* <https://secure-contracts.com/index.html>
 
 ## Nice course
 
