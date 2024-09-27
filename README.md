@@ -56,6 +56,8 @@ forge init --vscode foundry-template
 * [ponder](https://github.com/ponder-sh/ponder) - evm indexer
 * [prool](https://github.com/wevm/prool) - http e2e evm chain node testing
 * [bulloak](https://github.com/alexfertel/bulloak) - Generate tests based on the Branching Tree Technique.
+* [tevm](https://tevm.sh/) - typescript evm tool
+* [tevm-cast](https://tevm-cast.vercel.app/) - cast on the web
 
 ```sh
 just -l
