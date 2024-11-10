@@ -58,6 +58,7 @@ forge init --vscode foundry-template
 * [bulloak](https://github.com/alexfertel/bulloak) - Generate tests based on the Branching Tree Technique.
 * [tevm](https://tevm.sh/) - typescript evm tool
 * [tevm-cast](https://tevm-cast.vercel.app/) - cast on the web
+* [txtx](https://github.com/txtx/txtx) - Terraform for web3
 
 ```sh
 just -l
@@ -157,6 +158,10 @@ volta install @openzeppelin/upgrades-core # openzeppelin-upgrades-core
 * <https://github.com/andreitoma8/learn-yul>
 * <https://github.com/nascentxyz/simple-security-toolkit> - security check flows tools
 * <https://scsfg.io/> - security guide
+
+## Sample Contract Resources
+
+* <https://www.cookbook.dev/>
 
 ## Refs
 
