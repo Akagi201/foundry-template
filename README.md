@@ -172,3 +172,4 @@ volta install @openzeppelin/upgrades-core # openzeppelin-upgrades-core
 * <https://github.com/josechifflet/solidity-foundry>
 * <https://github.com/gabrielstoica/hardhat-upgrades>
 * <https://github.com/wslyvh/nexth/> - foundry + next.js
+* <https://github.com/Uniswap/foundry-template>
