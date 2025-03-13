@@ -59,6 +59,8 @@ forge init --vscode foundry-template
 * [tevm](https://tevm.sh/) - typescript evm tool
 * [tevm-cast](https://tevm-cast.vercel.app/) - cast on the web
 * [txtx](https://github.com/txtx/txtx) - Terraform for web3
+* [ethui](https://github.com/ethui/site) - anvil and forge web ui
+* [safe-tx-hashes-util](https://github.com/pcaversaccio/safe-tx-hashes-util) - calculates the Safe transaction hashes
 
 ```sh
 just -l
